@@ -10,7 +10,7 @@ const [homeScore, setHomeScore] = useState(0);
 const [awayScore, setAwayScore] = useState(0);
 
 console.log(homeScore);
-console.log(setHomeScore);
+console.log(etHomeScore);
 console.log(awayScore);
 console.log(setAwayScore);
 
