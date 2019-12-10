@@ -9,11 +9,6 @@ function App() {
 const [homeScore, setHomeScore] = useState(0);
 const [awayScore, setAwayScore] = useState(0);
 
-console.log(homeScore);
-console.log(etHomeScore);
-console.log(awayScore);
-console.log(setAwayScore);
-
   return (
     <div className="container">
       <section className="scoreboard">
